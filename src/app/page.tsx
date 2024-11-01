@@ -32,9 +32,9 @@ export default function HomePage() {
         <MyTeam/>
       </div>
 
-      <div className='contact'>
+      {/* <div className='contact'>
         <Contact/>
-      </div>
+      </div> */}
 
     </main>
   )
