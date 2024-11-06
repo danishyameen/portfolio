@@ -16,7 +16,7 @@ export default function NavBar() {
         <main>
             <header className="fixed top-0 z-10 w-full bg-rose-600 fo px-10 py-4 grid grid-cols-2">
                 <div className="logo">
-                    <h2 className="text-white font-semibold sm:text-[24px] text-[18px]">DanishYameen</h2>
+                    <h2 className="text-white font-semibold sm:text-[24px] text-[18px]">Portfolio</h2>
                 </div>
                 <nav className="mt-1 flex justify-end">
                     <div className="md:block hidden">

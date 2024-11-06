@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 
 export default function HeroSection() {
     return (
-        <div className="sm:p-10 p-7 sm:w-auto sm:h-auto w-auto h-auto sm:absolute absolute sm:top-[200px] top-[150px] bottom-0 grid lg:grid-cols-2 xl:grid-cols-2 md:grid-cols-2 grid-cols-1 sm:gap-64 gap-52 ">
+        <div className="sm:p-10 p-7 sm:w-auto sm:h-auto w-auto h-auto sm:absolute absolute sm:top-[200px] top-[100px] bottom-0 grid lg:grid-cols-2 xl:grid-cols-2 md:grid-cols-2 grid-cols-1 sm:gap-64 gap-52 ">
             
             <div className="sm:leading-[4.5rem] md:leading-[3rem] lg:leading-[3.5rem] md:mt-5">
                 <h2 className="text-white font-normal sm:text-[27px] md:text-[20px]  lg:text-[28px] text-[20px]">Dear, My Name Is</h2>

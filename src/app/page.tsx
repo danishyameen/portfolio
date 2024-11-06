@@ -6,6 +6,8 @@ import Skill from "@/app/skill/page";
 import MyWork from "@/app/mywork/page";
 import MyTeam from "@/app//team/page";
 import Contact from "@/app/contact/page"
+import AboutPage from './about/page';
+
 
 
 export default function HomePage() {
@@ -13,11 +15,15 @@ export default function HomePage() {
     <main>
 
       <div className='homePage'>
-        <div className='bg-barnnerImg bg-cover bg-repeat bg-bottom w-full sm:min-h-[650px] min-h-[850px]'>
+        <div className='bg-barnnerImg bg-cover bg-repeat bg-bottom w-full sm:min-h-[650px] min-h-[580px]'>
         </div>
         <div>
           <HeroSection />
         </div>
+      </div>
+
+      <div className="about">
+        <AboutPage/>
       </div>
 
       <div className='myWork'>
