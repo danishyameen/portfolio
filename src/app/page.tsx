@@ -15,7 +15,7 @@ export default function HomePage() {
     <main>
 
       <div className='homePage'>
-        <div className='bg-barnnerImg bg-cover bg-repeat bg-bottom w-full sm:min-h-[650px] min-h-[580px]'>
+        <div className='bg-barnnerImg bg-cover bg-repeat bg-bottom w-full sm:min-h-[650px] min-h-[600px]'>
         </div>
         <div>
           <HeroSection />

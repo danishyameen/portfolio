@@ -4,7 +4,7 @@ import { Button, CVbutton } from "@/components/button/Button"
 
 export default function AboutPage() {
     return (
-        <div>
+        <div className="">
             <div className="w-[200px] mx-auto">
                 <h1 className="mt-[100px] text-[40px] font-semibold text-center">About Me</h1>
                 <div className="flex">
