@@ -5,11 +5,11 @@ import { FaRegEnvelope } from "react-icons/fa"
 
 export default function ContactPage() {
     return (
-        <div className="space-x-5 mx-auto mb-5">
-            <div className="w-[280px] space-x-5 mx-auto">
+        <div className="space-x-3 mx-auto mb-5">
+            <div className="w-[280px] space-x-3 mx-auto">
                 <h1 className="mt-[100px] text-[40px] font-semibold text-center">Contact Me</h1>
                 <div className="flex">
-                    <hr className="mt-3 mr-3 w-[40px] h-[5px] bg-black" /><h2 className="text-center text-[20px] text-rose-600 font-semibold">Get In Touch </h2><hr className="ml-3 mt-3 w-[40px] h-[5px] bg-black" />
+                    <hr className="mt-3 ml-2 mr-3 w-[40px] h-[5px] bg-black" /><h2 className="text-center text-[20px] text-rose-600 font-semibold">Get In Touch </h2><hr className="ml-3 mt-3 w-[40px] h-[5px] bg-black" />
                 </div>
             </div>
 

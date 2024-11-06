@@ -9,8 +9,8 @@ export default function HeroSection() {
             
             <div className="sm:leading-[4.5rem] md:leading-[3rem] lg:leading-[3.5rem] md:mt-5">
                 <h2 className="text-white font-normal sm:text-[27px] md:text-[20px]  lg:text-[28px] text-[20px]">Dear, My Name Is</h2>
-                <h1 className="text-white font-semibold sm:text-[65px] md:text-[35px] lg:text-[45px] text-[44px]">Danish Yameen</h1>
-                <h2 className="text-white font-normal sm:text-[35px] md:text-[20px] lg:text-[25px] text-[24px]">And I'm a  Frontend Developer </h2>
+                <h1 className="text-white font-semibold sm:text-[65px] md:text-[35px] lg:text-[45px] text-[35px]">Danish Yameen</h1>
+                <h2 className="text-white font-normal sm:text-[35px] md:text-[20px] lg:text-[25px] text-[20px]">And I'm a  Frontend Developer </h2>
 
                 <div className="flex gap-3 h-auto w-auto ">
                     <Button />

@@ -4,10 +4,10 @@ import { Progress } from "@/components/ui/progress"
 export default function SkillPage() {
     return (
         <div className="space-x-3 mx-auto">
-            <div className="w-[280px] space-x-6 mx-auto">
+            <div className="w-[280px] space-x-3 mx-auto">
                 <h1 className="mt-[100px] text-[40px] font-semibold text-center">My Skill</h1>
                 <div className="flex w-[300px]">
-                    <hr className="mt-3 mr-3 w-[40px] h-[5px] bg-black" /><h2 className="text-center text-[20px] text-rose-600 font-semibold">What I Know</h2><hr className="ml-3 mt-3 w-[40px] h-[5px] bg-black" />
+                    <hr className="mt-3 ml-4 mr-3 w-[40px] h-[5px] bg-black" /><h2 className="text-center text-[20px] text-rose-600 font-semibold">What I Know</h2><hr className="ml-3 mt-3 w-[40px] h-[5px] bg-black" />
                 </div>
             </div>
 
